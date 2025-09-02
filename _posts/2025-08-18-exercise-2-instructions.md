@@ -5,7 +5,7 @@ author: "Susanna Alles Torrent"
 date: 2025-08-18
 exercise: "Ejercicio 2 Proyecto HD - Exercise 2 DH Project"
 ---
-## 🟨 Ejercicio 2: Explorar Proyectos Digitales sobre escrituras biográficas
+## 🟨 Ejercicio 2: Explorar Proyectos Digitales sobre escrituras biográficas!
 
 **Fecha de entrega**: 26-08-2025 (Antes de clase)  <br/>
 **Extensión**: Aproximadamente 1 o 2 párrafos (300–400 palabras)  <br/>
